@@ -1,0 +1,35 @@
+.header__container {
+    height: 70px;
+    width: 100%;
+    background-color: aqua;
+
+    .control__form {
+        width: 100%;
+        height: 70px;
+        display: flex;  
+
+        .input__form {
+            width: 80%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 auto !important;
+
+            .form__item__1 {
+                width: 10%;
+                display: flex;
+                justify-content: center;
+            }
+
+            .form__item__2 {
+                width: 80%;
+            }
+
+            .form__item__3 {
+                width: 10%;
+                display: flex;
+                justify-content: center;
+            }
+        }
+    }
+}

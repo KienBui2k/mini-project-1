@@ -1,0 +1,1 @@
+.main{width:40%;margin:0 auto}.main .task__container{width:100%;height:50px;margin:10px auto;display:flex;justify-content:space-between;line-height:50px}.main .task__container .Edie__btn{border:1px solid #000;background-color:#00ff04}.main .task__container .Delete__btn{border:1px solid #000;background-color:red;color:#fff}.complete{text-decoration:line-through;opacity:.5}
